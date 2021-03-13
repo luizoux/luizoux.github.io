@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>deep-learning on Luiza ~*</title>
+    <link>https://luiza.dev/tags/deep-learning/</link>
+    <description>Recent content in deep-learning on Luiza ~*</description>
+    <image>
+      <url>https://luiza.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://luiza.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 23 Mar 2021 11:30:03 +0000</lastBuildDate><atom:link href="https://luiza.dev/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Learning: como surgiu e o que são redes neurais</title>
+      <link>https://luiza.dev/post/deep-learning-como-surgiu/</link>
+      <pubDate>Tue, 23 Mar 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://luiza.dev/post/deep-learning-como-surgiu/</guid>
+      <description>Um resumo do que é Deep Learning e de como funciona uma Rede Neural feita para aula de Introdução à Inteligência Artificial da especialização.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Luiza ~*</title>
+    <link>https://luiza.dev/</link>
+    <description>Recent content on Luiza ~*</description>
+    <image>
+      <url>https://luiza.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://luiza.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 23 Mar 2021 11:30:03 +0000</lastBuildDate><atom:link href="https://luiza.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Learning: como surgiu e o que são redes neurais</title>
+      <link>https://luiza.dev/post/deep-learning-como-surgiu/</link>
+      <pubDate>Tue, 23 Mar 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://luiza.dev/post/deep-learning-como-surgiu/</guid>
+      <description>Um resumo do que é Deep Learning e de como funciona uma Rede Neural feita para aula de Introdução à Inteligência Artificial da especialização.</description>
+    </item>
+    
+    
+    <item>
+      <title>links</title>
+      <link>https://luiza.dev/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiza.dev/links/</guid>
+      <description>alguns links meus que gosto de compartilhar.</description>
+    </item>
+    
+    
+    <item>
+      <title>sobre mim</title>
+      <link>https://luiza.dev/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiza.dev/about/</guid>
+      <description>Olá, meu nome é Luiza. Tenho 23 anos e moro numa pequena cidadezinha no interior de São Paulo, chamada Itararé. Atualmente sou desenvolvedora do hub de tecnologia da Ambev, a Ambev Tech. Já sou formada em Análise e Desenvolvimento de Sistemas pela Universidade Positivo e faço pós em Inteligência Aritificial Aplicada na UFPR. Trabalho com desenvolvimento há 3 anos, principalmente com C#/.NET e Angular.
+ trabalho com essas tecnologias hoje:  C#, .</description>
+    </item>
+    
+  </channel>
+</rss>
