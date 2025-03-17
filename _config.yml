@@ -1,6 +1,8 @@
 title: luiza marinho
 description: .net developer and ai enthusiast
 theme: just-the-docs
+nav_enabled: true
+layout: minimal
 
 url: https://luiza.dev
 
