@@ -3,7 +3,6 @@ title = "Luiza Marinho"
 author = "Luiza Marinho"
 languageCode = "pt-br"
 defaultContentLanguage = "pt-br"
-theme = "digio-theme"
 enableInlineShortcodes = true
 ignoreFiles = ["(open-source/(test3|test4)|write/(test|test2))\\.md$"]
 

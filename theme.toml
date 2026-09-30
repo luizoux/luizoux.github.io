@@ -1,15 +1,10 @@
-name = "risotto"
-license = "MIT"
-licenselink = "https://github.com/joeroe/risotto/blob/master/LICENSE"
-description = "A minimalist, responsive theme inspired by terminal ricing aesthetics."
-
-homepage = "https://github.com/joeroe/risotto"
-demosite = "https://risotto.joeroe.io"
-
-tags = ["responsive", "minimal", "dark mode"]
-features = []
+name = "digio"
+license = "GPL-3.0"
+licenselink = "https://www.gnu.org/licenses/gpl-3.0.en.html"
+description = "A pixel, ASCII, and retro Hugo theme."
+homepage = "https://github.com/danapixels/digio-theme"
+demosite = "https://danablog.dev"
 
 [author]
-  name = "Joe Roe"
-  homepage = "https://joeroe.io"
-
+  name = "danapixels"
+  homepage = "https://danablog.dev"
