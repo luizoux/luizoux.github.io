@@ -12,6 +12,13 @@ hugo server
 
 Open <http://localhost:1313/>.
 
+## Content
+
+- `content/about.md`: about page.
+- `content/resume.md`: résumé scaffold; fill in experience, skills, and education.
+- `content/projects/_index.md`: projects section. Add each project as a Markdown file in `content/projects/`.
+- Add English translations alongside Portuguese pages with the `.en.md` suffix, for example `resume.en.md`.
+
 ## Publish
 
 The workflow at `.github/workflows/hugo.yml` builds the site and deploys it to GitHub Pages after each push to `main`. In the repository's GitHub settings, set **Settings → Pages → Build and deployment → Source** to **GitHub Actions**. The workflow publishes to the custom domain configured in `static/CNAME` (`www.luiza.dev`).

@@ -1,26 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Luiza Marinho</title>
+    <title>hello, i&#39;m luiza</title>
     <link>http://localhost:1313/en/</link>
-    <description>Recent content on Luiza Marinho</description>
+    <description>Recent content on hello, i&#39;m luiza</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>...</title>
-      <link>http://localhost:1313/en/open-source/dotnet-job-with-quartz/</link>
+      <link>http://localhost:1313/en/projects/dotnet-job-with-quartz/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/open-source/dotnet-job-with-quartz/</guid>
+      <guid>http://localhost:1313/en/projects/dotnet-job-with-quartz/</guid>
       <description></description>
     </item>
     <item>
       <title>about me</title>
-      <link>http://localhost:1313/en/me/</link>
+      <link>http://localhost:1313/en/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/me/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m still figuring it out.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/luizoux&#34;&gt;gitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/luizarvm/&#34;&gt;linkedIn&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;email: &lt;a href=&#34;mailto:hello@luiza.dev&#34;&gt;hello@luiza.dev&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/en/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m still figuring it out.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/luizoux&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/luizarvm/&#34;&gt;linkedIn&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;email: &lt;a href=&#34;mailto:hello@luiza.dev&#34;&gt;hello@luiza.dev&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/en/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/resume/</guid>
+      <description>&lt;h2 id=&#34;professional-summary&#34;&gt;Professional summary&lt;/h2&gt;&#xA;&lt;p&gt;Tech Lead and .NET developer with over 7 years of software development experience. Currently at Ambev Tech, with a background in technical leadership, full-stack and back-end development, application development and maintenance, APIs, testing, and code reviews.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;work-experience&#34;&gt;Work experience&lt;/h2&gt;&#xA;&lt;h3 id=&#34;𖦹-tech-lead--ambev-tech&#34;&gt;𖦹 Tech Lead — Ambev Tech&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;September 2025 – Present&lt;/strong&gt; · Remote&lt;/p&gt;&#xA;&lt;p&gt;Technical leadership at Ambev Tech. Skills associated with this role on the profile include technical team management and Microsoft .NET.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

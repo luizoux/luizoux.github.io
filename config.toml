@@ -1,10 +1,10 @@
 baseURL = "https://www.luiza.dev/"
-title = "Luiza Marinho"
+title = "hello, i'm luiza"
 author = "Luiza Marinho"
 defaultContentLanguage = "pt-br"
 defaultContentLanguageInSubdir = false
 enableInlineShortcodes = true
-ignoreFiles = ["(open-source/(test3|test4)|write/(test|test2))\\.md$"]
+ignoreFiles = ["(projects/(test3|test4)|write/(test|test2))\\.md$"]
 
 [languages]
   [languages.pt-br]
@@ -21,19 +21,19 @@ ignoreFiles = ["(open-source/(test3|test4)|write/(test|test2))\\.md$"]
     [[languages.pt-br.menus.main]]
     identifier = "projects"
     name = "projetos"
-    pageRef = "/open-source"
+    pageRef = "/projects"
     weight = 2
 
     [[languages.pt-br.menus.main]]
-    identifier = "writing"
-    name = "escritos"
-    pageRef = "/write"
+    identifier = "resume"
+    name = "currículo"
+    pageRef = "/resume"
     weight = 3
 
     [[languages.pt-br.menus.main]]
     identifier = "about"
-    name = "sobre"
-    pageRef = "/me"
+    name = "sobre mim"
+    pageRef = "/about"
     weight = 4
 
   [languages.en]
@@ -50,19 +50,19 @@ ignoreFiles = ["(open-source/(test3|test4)|write/(test|test2))\\.md$"]
     [[languages.en.menus.main]]
     identifier = "projects"
     name = "projects"
-    pageRef = "/open-source"
+    pageRef = "/projects"
     weight = 2
 
     [[languages.en.menus.main]]
-    identifier = "writing"
-    name = "writing"
-    pageRef = "/write"
+    identifier = "resume"
+    name = "resume"
+    pageRef = "/resume"
     weight = 3
 
     [[languages.en.menus.main]]
     identifier = "about"
-    name = "about"
-    pageRef = "/me"
+    name = "about me"
+    pageRef = "/about"
     weight = 4
 
 [markup.goldmark.renderer]

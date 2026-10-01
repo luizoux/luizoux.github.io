@@ -16,16 +16,13 @@
                 {{ block "main" . }}{{ end }}
             </div>
         </main>
-        {{ if or .IsHome (or (in (slice "post" "posts" "blog") .Type) (in (slice
-        "posts" "blog") .Section)) }}
+        {{ if or .IsHome (eq .Section "projects") }}
         <div class="mx-auto w-full max-w-4xl px-4 py-2 mt-8">
-            <img src="/recent-work.png" alt="recent-work" />
+            <img src="/recent-work.png" alt="{{ T "recentWork" }}" />
         </div>
         <div class="mx-auto w-full max-w-4xl px-4 py-4">
-            {{/* Get regular posts */}} {{ $candidates := where
-            site.RegularPages "Type" "in" (slice "posts" "post" "blog") }} {{ if
-            lt (len $candidates) 2 }} {{ $candidates = site.RegularPages }} {{
-            end }} {{/* Get external links from all section pages */}} {{
+            {{/* Get project posts */}} {{ $candidates := where
+            site.RegularPages "Section" "projects" }} {{/* Get external links from all section pages */}} {{
             $allItems := slice }} {{ range $candidates }} {{ $allItems =
             $allItems | append (dict "type" "post" "data" . "sortDate" .Date) }}
             {{ end }} {{/* Collect external links from section pages */}} {{

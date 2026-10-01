@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Luiza Marinho</title>
+    <title>hello, i&#39;m luiza</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Luiza Marinho</description>
+    <description>Recent content on hello, i&#39;m luiza</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>...</title>
-      <link>http://localhost:1313/open-source/dotnet-job-with-quartz/</link>
+      <link>http://localhost:1313/projects/dotnet-job-with-quartz/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/open-source/dotnet-job-with-quartz/</guid>
+      <guid>http://localhost:1313/projects/dotnet-job-with-quartz/</guid>
       <description></description>
     </item>
     <item>
-      <title>Arquivos</title>
-      <link>http://localhost:1313/archives/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/archives/</guid>
-      <description></description>
+      <title>Currículo</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;h2 id=&#34;resumo-profissional&#34;&gt;Resumo profissional&lt;/h2&gt;&#xA;&lt;p&gt;Tech Lead e desenvolvedora .NET com mais de 7 anos de experiência em desenvolvimento de software. Atua na Ambev Tech, com trajetória que inclui liderança técnica, desenvolvimento full stack e back-end, construção e manutenção de aplicações, APIs, testes e revisão de código.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;experiência-profissional&#34;&gt;Experiência profissional&lt;/h2&gt;&#xA;&lt;h3 id=&#34;𖦹-tech-lead--ambev-tech&#34;&gt;𖦹 Tech Lead — Ambev Tech&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Setembro de 2025 – atual&lt;/strong&gt; · Remoto&lt;/p&gt;&#xA;&lt;p&gt;Liderança técnica na Ambev Tech. Competências associadas ao cargo no perfil: gestão de equipe técnica e Microsoft .NET.&lt;/p&gt;</description>
     </item>
     <item>
       <title>sobre mim</title>
-      <link>http://localhost:1313/me/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/me/</guid>
-      <description>&lt;p&gt;ainda estou me descobrindo&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/luizoux&#34;&gt;gitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/luizarvm/&#34;&gt;linkedIn&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://luizoux.substack.com/&#34;&gt;com amor e muito horror, luiza&lt;/a&gt; - meu blog escrevo sobre literatura e cinema de horror&lt;/li&gt;&#xA;&lt;li&gt;email: &lt;a href=&#34;mailto:hello@luiza.dev&#34;&gt;hello@luiza.dev&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;ainda estou me descobrindo&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/luizoux&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/luizarvm/&#34;&gt;linkedIn&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://luizoux.substack.com/&#34;&gt;com amor e muito horror, luiza&lt;/a&gt; - meu blog escrevo sobre literatura e cinema de horror&lt;/li&gt;&#xA;&lt;li&gt;email: &lt;a href=&#34;mailto:hello@luiza.dev&#34;&gt;hello@luiza.dev&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

@@ -15,17 +15,17 @@
                 href="http://localhost:1313/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/open-source/dotnet-job-with-quartz/</loc>
+    <loc>http://localhost:1313/en/projects/dotnet-job-with-quartz/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/open-source/dotnet-job-with-quartz/"
+                href="http://localhost:1313/projects/dotnet-job-with-quartz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/open-source/dotnet-job-with-quartz/"
+                href="http://localhost:1313/en/projects/dotnet-job-with-quartz/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/tags/open-source/</loc>
@@ -41,17 +41,17 @@
                 href="http://localhost:1313/en/tags/open-source/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/open-source/</loc>
+    <loc>http://localhost:1313/en/projects/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/open-source/"
+                href="http://localhost:1313/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/open-source/"
+                href="http://localhost:1313/en/projects/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/tags/</loc>
@@ -67,16 +67,16 @@
                 href="http://localhost:1313/en/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/me/</loc>
+    <loc>http://localhost:1313/en/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/me/"
+                href="http://localhost:1313/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/me/"
+                href="http://localhost:1313/en/about/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/categories/</loc>
@@ -91,28 +91,16 @@
                 href="http://localhost:1313/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/index/</loc>
+    <loc>http://localhost:1313/en/resume/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/tags/index/"
+                href="http://localhost:1313/resume/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/tags/index/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/post/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-BR"
-                href="http://localhost:1313/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/post/"
+                href="http://localhost:1313/en/resume/"
                 />
   </url>
 </urlset>
