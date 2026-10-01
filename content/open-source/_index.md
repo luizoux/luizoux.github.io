@@ -1,5 +1,5 @@
 +++
-title = "codes"
-description = "Projects and contributions"
+title = "projetos"
+description = "Projetos e contribuições"
 aliases = ["codes"]
 +++

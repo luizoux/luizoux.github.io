@@ -1,5 +1,5 @@
 +++
-title = "me"
+title = "sobre mim"
 layout = "me"
 aliases = ["about", "about-me", "contact"]
 likes = []
@@ -7,9 +7,9 @@ dislikes = []
 hobbies = []
 +++
 
-i'm still figuring it out
+ainda estou me descobrindo
 
-- [GitHub](https://github.com/luizoux)
-- [LinkedIn](https://www.linkedin.com/in/luizarvm/)
-- [Blog de cinema e literatura](https://luizoux.substack.com/)
-- [Email](mailto:hello@luiza.dev)
+- [gitHub](https://github.com/luizoux)
+- [linkedIn](https://www.linkedin.com/in/luizarvm/)
+- [com amor e muito horror, luiza](https://luizoux.substack.com/) - meu blog escrevo sobre literatura e cinema de horror
+- email: hello@luiza.dev

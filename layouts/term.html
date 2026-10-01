@@ -47,7 +47,7 @@
                 </span>
               </h2>
               <ul class="pl-5">
-                <li><time class="text-sm text-gray-300">{{ .Date.Format "January 2, 2006" }}</time></li>
+                <li><time class="text-sm text-gray-300">{{ .Date | time.Format ":date_long" }}</time></li>
                 {{ with $teaser }}<li><em>{{ . | plainify | truncate 140 }}</em></li>{{ end }}
               </ul>
             </article>
@@ -55,7 +55,7 @@
         {{ end }}
       </div>
     {{ else }}
-      <p class="text-gray-400 mt-8">No posts found for this tag.</p>
+      <p class="text-gray-400 mt-8">{{ T "noPostsForTag" }}</p>
     {{ end }}
   </div>
 {{ end }}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open-Source on Luiza Marinho</title>
+    <link>http://localhost:1313/tags/open-source/</link>
+    <description>Recent content in Open-Source on Luiza Marinho</description>
+    <generator>Hugo</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agendando tarefas em um projeto .NET com Quartz</title>
+      <link>http://localhost:1313/open-source/dotnet-job-with-quartz/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/open-source/dotnet-job-with-quartz/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/luizoux/dotnet-job-with-quartz&#34;&gt;Veja o projeto no GitHub&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

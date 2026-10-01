@@ -1,9 +1,9 @@
 +++
 aliases = ["posts", "blog", "showcase", "docs"]
-title = "posts"
+title = "publicações"
 author = "Luiza Marinho"
-description = "the codes i've been making"
+description = "os projetos que venho criando"
 tags = ["index"]
 +++
 
-nothing
+nada por aqui ainda

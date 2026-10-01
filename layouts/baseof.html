@@ -61,7 +61,7 @@
                     {{ end }} {{ end }}
 
                     <span class="self-start text-sm text-white underline">
-                        Read more →
+                        {{ T "readMore" }} →
                     </span>
                 </a>
                 {{ else if eq .type "link" }} {{ $link := .data }}
@@ -82,7 +82,7 @@
                     {{ end }}
 
                     <span class="self-start text-sm text-white underline">
-                        Read more →
+                        {{ T "readMore" }} →
                     </span>
                 </a>
                 {{ end }} {{ end }}

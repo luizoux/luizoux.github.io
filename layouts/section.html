@@ -21,7 +21,7 @@
     {{ range $externalLinks }}
       {{/* Parse the date and format it properly */}}
       {{ $parsedDate := time .date }}
-      {{ $displayDate := $parsedDate.Format "January 2, 2006" }}
+      {{ $displayDate := $parsedDate | time.Format ":date_long" }}
       {{ $allItems = $allItems | append (dict "type" "link" "data" . "date" $displayDate "sortDate" $parsedDate) }}
     {{ end }}
   {{ end }}
@@ -74,7 +74,7 @@
                 </span>
               </h2>
               <ul class="pl-5">
-                <li><time class="text-sm text-gray-300">{{ $post.Date.Format "January 2, 2006" }}</time></li>
+                <li><time class="text-sm text-gray-300">{{ $post.Date | time.Format ":date_long" }}</time></li>
                 {{ with $teaser }}<li><em>{{ . | plainify | truncate 140 }}</em></li>{{ end }}
               </ul>
             </article>
@@ -99,7 +99,7 @@
       {{ end }}
     </div>
   {{ else }}
-    <p class="text-gray-400 mt-8">No posts or links found.</p>
+    <p class="text-gray-400 mt-8">{{ T "noPostsOrLinks" }}</p>
   {{ end }}
 </div>
 {{ end }}

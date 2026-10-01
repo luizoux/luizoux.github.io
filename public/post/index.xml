@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>posts on Luiza Marinho</title>
-    <link>https://luiza.dev/post/</link>
-    <description>Recent content in posts on Luiza Marinho</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language><atom:link href="https://luiza.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    <title>publicações on Luiza Marinho</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in publicações on Luiza Marinho</description>
+    <generator>Hugo</generator>
+    <language>pt-BR</language>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

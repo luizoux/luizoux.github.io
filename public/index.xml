@@ -2,36 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luiza Marinho</title>
-    <link>https://luiza.dev/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Luiza Marinho</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language><atom:link href="https://luiza.dev/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>codes</title>
-      <link>https://luiza.dev/codes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiza.dev/codes/</guid>
-      <description> using scheduling job Quartz on .NET project  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://luiza.dev/archives/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiza.dev/archives/</guid>
+      <title>...</title>
+      <link>http://localhost:1313/open-source/dotnet-job-with-quartz/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/open-source/dotnet-job-with-quartz/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title></title>
-      <link>https://luiza.dev/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiza.dev/about/</guid>
-      <description>i&amp;rsquo;m still figuring it out</description>
+      <title>Arquivos</title>
+      <link>http://localhost:1313/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archives/</guid>
+      <description></description>
     </item>
-    
+    <item>
+      <title>sobre mim</title>
+      <link>http://localhost:1313/me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/me/</guid>
+      <description>&lt;p&gt;ainda estou me descobrindo&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/luizoux&#34;&gt;gitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/luizarvm/&#34;&gt;linkedIn&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://luizoux.substack.com/&#34;&gt;com amor e muito horror, luiza&lt;/a&gt; - meu blog escrevo sobre literatura e cinema de horror&lt;/li&gt;&#xA;&lt;li&gt;email: &lt;a href=&#34;mailto:hello@luiza.dev&#34;&gt;hello@luiza.dev&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
   </channel>
 </rss>

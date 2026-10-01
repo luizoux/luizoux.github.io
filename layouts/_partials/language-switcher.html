@@ -1,0 +1,13 @@
+{{- $page := . -}}
+<nav class="flex items-center gap-2" aria-label="{{ T "chooseLanguage" }}">
+    {{- range (slice (dict "lang" "pt-br" "label" "PT-BR" "home" "/") (dict "lang" "en" "label" "EN" "home" "/en/")) }}
+        {{- $language := .lang -}}
+        {{- $target := .home -}}
+        {{- range $page.AllTranslations -}}
+            {{- if eq .Language.Lang $language -}}
+                {{- $target = .RelPermalink -}}
+            {{- end -}}
+        {{- end -}}
+        <a href="{{ $target }}" lang="{{ $language }}" hreflang="{{ $language }}" class="text-sm border border-white rounded-lg px-2 py-1{{ if eq site.Language.Lang $language }} underline{{ end }}"{{ if eq site.Language.Lang $language }} aria-current="page"{{ end }}>{{ .label }}</a>
+    {{- end }}
+</nav>
